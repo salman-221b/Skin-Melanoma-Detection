@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Running Skin Cancer Classification Project in Jupyter Notebook</title>
 </head>
 <body>
 <h1>Running Skin Cancer Classification Project in Jupyter Notebook</h1>
